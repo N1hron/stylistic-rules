@@ -97,7 +97,7 @@ export default {
   "@stylistic/no-trailing-spaces": "error",
   "@stylistic/no-whitespace-before-property": "error",
   "@stylistic/nonblock-statement-body-position": ["error", "beside"],
-  "@stylistic/object-curly-newline": ["error", { multiline: true }],
+  "@stylistic/object-curly-newline": ["error", { consistent: true }],
   "@stylistic/object-curly-spacing": ["error", "always"],
   "@stylistic/object-property-newline": ["error", { allowAllPropertiesOnSameLine: true }],
   "@stylistic/one-var-declaration-per-line": ["error", "initializations"],
