@@ -55,7 +55,7 @@
   ],
   "@stylistic/dot-location": [
     "error",
-    "object"
+    "property"
   ],
   "@stylistic/eol-last": [
     "error",
