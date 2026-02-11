@@ -87,7 +87,7 @@ export default {
   "@stylistic/new-parens": ["error", "never"],
   "@stylistic/newline-per-chained-calls": "off",
   "@stylistic/no-confusing-arrow": "error",
-  "@stylistic/no-extra-parens": "error",
+  "@stylistic/no-extra-parens": "off",
   "@stylistic/no-extra-semi": "error",
   "@stylistic/no-floating-decimal": "error",
   "@stylistic/no-mixed-operators": "error",
