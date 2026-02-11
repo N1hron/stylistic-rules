@@ -142,12 +142,7 @@
       "maximum": 3
     }
   ],
-  "@stylistic/jsx-newline": [
-    "error",
-    {
-      "prevent": true
-    }
-  ],
+  "@stylistic/jsx-newline": "off",
   "@stylistic/jsx-one-expression-per-line": "off",
   "@stylistic/jsx-pascal-case": "error",
   "@stylistic/jsx-quotes": [
