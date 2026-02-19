@@ -256,7 +256,7 @@
   ],
   "@stylistic/new-parens": [
     "error",
-    "never"
+    "always"
   ],
   "@stylistic/newline-per-chained-calls": "off",
   "@stylistic/no-confusing-arrow": "error",
