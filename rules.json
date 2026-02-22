@@ -85,7 +85,8 @@
     "error",
     2,
     {
-      "VariableDeclarator": "first"
+      "VariableDeclarator": "first",
+      "flatTernaryExpressions": true
     }
   ],
   "@stylistic/indent-binary-ops": [
