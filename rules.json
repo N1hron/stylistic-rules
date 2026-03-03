@@ -236,10 +236,7 @@
     "error",
     "separate-lines"
   ],
-  "@stylistic/multiline-ternary": [
-    "error",
-    "always-multiline"
-  ],
+  "@stylistic/multiline-ternary": "off",
   "@stylistic/new-parens": [
     "error",
     "always"
