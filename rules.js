@@ -6,7 +6,7 @@ export default {
   "@stylistic/arrow-spacing": ["error", { before: true, after: true }],
   "@stylistic/block-spacing": ["error", "always"],
   "@stylistic/brace-style": ["error", "1tbs"],
-  "@stylistic/comma-dangle": ["error", "never"],
+  "@stylistic/comma-dangle": ["error", "always-multiline"],
   "@stylistic/comma-spacing": ["error", { before: false, after: true }],
   "@stylistic/comma-style": ["error", "last"],
   "@stylistic/computed-property-spacing": ["error", "never"],
@@ -120,5 +120,5 @@ export default {
   "@stylistic/type-named-tuple-spacing": "error",
   "@stylistic/wrap-iife": ["error", "inside"],
   "@stylistic/wrap-regex": "error",
-  "@stylistic/yield-star-spacing": ["error", "after"]
+  "@stylistic/yield-star-spacing": ["error", "after"],
 };

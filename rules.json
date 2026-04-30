@@ -32,7 +32,7 @@
   ],
   "@stylistic/comma-dangle": [
     "error",
-    "never"
+    "always-multiline"
   ],
   "@stylistic/comma-spacing": [
     "error",
